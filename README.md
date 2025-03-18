@@ -29,6 +29,12 @@ Full Stack Developer & ML Enthusiast
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagabanpaul62&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
+### GitHub Streak
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagabanpaul62&theme=radical" alt="GitHub Streak" />
+</div>
+
+
 ## 💡 Skills:
 
 - **Programming Languages:** Java, Python, JavaScript, C & C++  
