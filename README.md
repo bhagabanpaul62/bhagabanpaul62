@@ -51,8 +51,8 @@ Full Stack Developer & ML Enthusiast
 
 ## 📫 Connect With Me:
 
-[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/yourusername)
-[<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />](https://youtube.com/@yourchannel)
+[<img src="https://www.linkedin.com/in/bhagaban-paul-380350278/" />](https://linkedin.com/in/yourusername)
+[<img src="youtube.com" />](https://youtube.com/@yourchannel)
 
 ---
 ⭐️ From [Your Name](https://github.com/yourusername)
