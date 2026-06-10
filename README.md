@@ -1,52 +1,110 @@
-# 👨‍💻 About Me:
-
-Full Stack Developer & ML Enthusiast  
-- 🎓 Currently pursuing B.Tech in Computer Science (IoTcs) at Heritage Institute of Technology  
-- 🔭 Working on Cancer Detection and Deepfake Detection Systems  
-- 🌱 Passionate about AI/ML and Web Development  
-- 👯 Looking to collaborate on innovative projects  
-
-## 💻 Tech Stack:
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
-
-## 📊 GitHub Stats:
+<!-- Animated Header -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhagabanpaul62&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6a11cb,100:2575fc&text=Bhagaban%20Paul&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Engineer%20%7C%20AI%20Builder%20%7C%20Founder&descAlignY=60"/>
+
 </div>
-
-### Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagabanpaul62&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-
-## 💡 Skills:
-
-- **Programming Languages:** Java, Python, JavaScript, C & C++  
-- **Web Development:** React.js, Node.js, Express.js, HTML, CSS  
-- **Machine Learning:** LSTM, ResNet, CNN  
-- **Other Tools:** Git, AWS, Computer Vision  
-
-## 🎯 Interests:
-
-- 🧘‍♂️ Yoga Practice  
-- 💻 Coding & Personal Projects  
-- 🎥 Content Creation  
-
-## 📫 Connect With Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhagaban-paul-380350278/)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)  
 
 ---
-⭐️ From [Bhagaban Paul](https://github.com/bhagabanpaul62)
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=26\&pause=1000\&center=true\&vCenter=true\&random=false\&width=900\&lines=Building+AI-Powered+Products;Full+Stack+Developer;React+%7C+Node.js+%7C+AWS;Machine+Learning+Enthusiast;Future+Tech+Founder)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/bhagaban-paul-380350278/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:bhagwanpalofficial@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://bhagaban.dev">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+</p>
+
+---
+
+## 🚀 Current Mission
+
+```diff
++ Building AI SaaS Products
++ Developing Cancer Detection Systems
++ Developing Deepfake Detection Systems
++ Exploring Cloud Architecture
++ Creating Business Automation Tools
+```
+
+---
+
+## ⚙️ Tech Universe
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,firebase,python,java,cpp,tensorflow,aws,git,github,vscode" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📊 Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhagabanpaul62&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagabanpaul62&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=bhagabanpaul62&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhagabanpaul62&theme=tokyo-night"/>
+
+---
+
+## 🚀 Founder Mindset
+
+> Build Products.
+> Solve Problems.
+> Scale Systems.
+> Create Value.
+
+---
+
+<div align="center">
+
+### ⭐ Turning Ideas into Products
+
+<img src="https://komarev.com/ghpvc/?username=bhagabanpaul62&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+<!-- Footer -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:6a11cb,100:2575fc&height=120"/>
