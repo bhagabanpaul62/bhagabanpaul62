@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="Bhagaban Paul, Forward Deployed Engineer at Vyohm AI and founder of Triakshi AI">
+<style>
+.name tspan { opacity: 0; animation: ch .01s steps(1, end) forwards; }
+@keyframes ch { to { opacity: 1; } }
+.rule { stroke-dasharray: 340; stroke-dashoffset: 340; animation: draw .9s cubic-bezier(.2,.7,.2,1) forwards; animation-delay: 1.15s; }
+@keyframes draw { to { stroke-dashoffset: 0; } }
+.prompt { opacity: 0; animation: ch .01s steps(1, end) forwards; animation-delay: 1.50s; }
+.caret { opacity: 0; animation: caret-x 30.0s linear infinite, blink 1s steps(2, start) infinite, ch .01s steps(1,end) forwards; animation-delay: 1.50s, 0s, 1.50s; }
+@keyframes blink { to { visibility: hidden; } }
+.chip { opacity: 0; animation: rise .7s cubic-bezier(.2,.7,.2,1) forwards; }
+@keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+.glow { transform-box: fill-box; transform-origin: center; }
+.g1 { animation: drift1 16s ease-in-out infinite alternate; }
+.g2 { animation: drift2 19s ease-in-out infinite alternate; }
+.g3 { animation: drift3 13s ease-in-out infinite alternate; }
+@keyframes drift1 { from { transform: translate(0,0) scale(1); } to { transform: translate(70px,40px) scale(1.15); } }
+@keyframes drift2 { from { transform: translate(0,0) scale(1); } to { transform: translate(-90px,-30px) scale(1.1); } }
+@keyframes drift3 { from { transform: translate(0,0) scale(1); } to { transform: translate(-50px,60px) scale(0.9); } }
+.p { animation: float linear infinite; }
+@keyframes float { 0% { transform: translateY(0); opacity: 0; } 15% { opacity: var(--o); } 85% { opacity: var(--o); } 100% { transform: translateY(-140px); opacity: 0; } }
+
+.clip0 { animation: clip0 30.0s linear infinite; animation-delay: 1.50s; }
+@keyframes clip0 {
+  0% { width: 0; }
+  2.000% { width: 0; animation-timing-function: steps(36, end); }
+  8.600% { width: 561.6px; }
+  19.267% { width: 561.6px; animation-timing-function: steps(36, end); }
+  21.907% { width: 0; }
+  100% { width: 0; }
+}
+.clip1 { animation: clip1 30.0s linear infinite; animation-delay: 1.50s; }
+@keyframes clip1 {
+  0% { width: 0; }
+  23.907% { width: 0; animation-timing-function: steps(39, end); }
+  31.057% { width: 608.4px; }
+  41.723% { width: 608.4px; animation-timing-function: steps(39, end); }
+  44.583% { width: 0; }
+  100% { width: 0; }
+}
+.clip2 { animation: clip2 30.0s linear infinite; animation-delay: 1.50s; }
+@keyframes clip2 {
+  0% { width: 0; }
+  46.583% { width: 0; animation-timing-function: steps(42, end); }
+  54.283% { width: 655.2px; }
+  64.950% { width: 655.2px; animation-timing-function: steps(42, end); }
+  68.030% { width: 0; }
+  100% { width: 0; }
+}
+.clip3 { animation: clip3 30.0s linear infinite; animation-delay: 1.50s; }
+@keyframes clip3 {
+  0% { width: 0; }
+  70.030% { width: 0; animation-timing-function: steps(40, end); }
+  77.363% { width: 624.0px; }
+  88.030% { width: 624.0px; animation-timing-function: steps(40, end); }
+  90.963% { width: 0; }
+  100% { width: 0; }
+}@keyframes caret-x {
+  0% { transform: translateX(0); }
+  2.000% { transform: translateX(0); animation-timing-function: steps(36, end); }
+  8.600% { transform: translateX(561.6px); }
+  19.267% { transform: translateX(561.6px); animation-timing-function: steps(36, end); }
+  21.907% { transform: translateX(0); }
+  23.907% { transform: translateX(0); animation-timing-function: steps(39, end); }
+  31.057% { transform: translateX(608.4px); }
+  41.723% { transform: translateX(608.4px); animation-timing-function: steps(39, end); }
+  44.583% { transform: translateX(0); }
+  46.583% { transform: translateX(0); animation-timing-function: steps(42, end); }
+  54.283% { transform: translateX(655.2px); }
+  64.950% { transform: translateX(655.2px); animation-timing-function: steps(42, end); }
+  68.030% { transform: translateX(0); }
+  70.030% { transform: translateX(0); animation-timing-function: steps(40, end); }
+  77.363% { transform: translateX(624.0px); }
+  88.030% { transform: translateX(624.0px); animation-timing-function: steps(40, end); }
+  90.963% { transform: translateX(0); }
+  100% { transform: translateX(0); }
+}</style>
+<defs>
+  <clipPath id="frame"><rect width="1200" height="400" rx="24"/></clipPath>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0b14"/><stop offset="1" stop-color="#07070d"/></linearGradient>
+  <radialGradient id="rg1"><stop offset="0" stop-color="#7c3aed" stop-opacity="0.75"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+  <radialGradient id="rg2"><stop offset="0" stop-color="#2563eb" stop-opacity="0.7"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/></radialGradient>
+  <radialGradient id="rg3"><stop offset="0" stop-color="#06b6d4" stop-opacity="0.6"/><stop offset="1" stop-color="#06b6d4" stop-opacity="0"/></radialGradient>
+  <linearGradient id="nameGrad" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#c7d2fe"/></linearGradient>
+  <linearGradient id="ruleGrad" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a78bfa"/><stop offset="0.6" stop-color="#60a5fa"/><stop offset="1" stop-color="#67e8f9" stop-opacity="0"/></linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.07" stroke-width="1"/></pattern>
+  <radialGradient id="fade" cx="0.35" cy="0.45" r="0.75"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#000"/></radialGradient>
+  <mask id="gridMask"><rect width="1200" height="400" fill="url(#fade)"/></mask>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="70"/></filter>
+</defs>
+<g clip-path="url(#frame)">
+  <rect width="1200" height="400" fill="url(#bg)"/>
+  <g filter="url(#blur)">
+    <circle class="glow g1" cx="220" cy="110" r="260" fill="url(#rg1)"/>
+    <circle class="glow g2" cx="930" cy="330" r="300" fill="url(#rg2)"/>
+    <circle class="glow g3" cx="1060" cy="70" r="210" fill="url(#rg3)"/>
+  </g>
+  <rect width="1200" height="400" fill="url(#grid)" mask="url(#gridMask)"/>
+  <circle class="p" cx="723" cy="157" r="3" fill="#c4b5fd" style="--o:0.7;animation-duration:7s;animation-delay:-1s"/><circle class="p" cx="808" cy="378" r="1.5" fill="#c4b5fd" style="--o:0.7;animation-duration:10s;animation-delay:0s"/><circle class="p" cx="948" cy="294" r="1.5" fill="#ffffff" style="--o:0.35;animation-duration:8s;animation-delay:-8s"/><circle class="p" cx="181" cy="369" r="1.5" fill="#ffffff" style="--o:0.35;animation-duration:7s;animation-delay:-9s"/><circle class="p" cx="161" cy="193" r="1.5" fill="#ffffff" style="--o:0.7;animation-duration:9s;animation-delay:-4s"/><circle class="p" cx="355" cy="356" r="1.5" fill="#93c5fd" style="--o:0.7;animation-duration:11s;animation-delay:-8s"/><circle class="p" cx="271" cy="377" r="2" fill="#c4b5fd" style="--o:0.5;animation-duration:8s;animation-delay:-8s"/><circle class="p" cx="182" cy="396" r="2" fill="#67e8f9" style="--o:0.5;animation-duration:13s;animation-delay:-12s"/><circle class="p" cx="1013" cy="379" r="3" fill="#93c5fd" style="--o:0.5;animation-duration:11s;animation-delay:-3s"/><circle class="p" cx="559" cy="121" r="2.5" fill="#ffffff" style="--o:0.7;animation-duration:14s;animation-delay:-5s"/><circle class="p" cx="649" cy="391" r="1.5" fill="#67e8f9" style="--o:0.35;animation-duration:13s;animation-delay:-2s"/><circle class="p" cx="371" cy="330" r="3" fill="#67e8f9" style="--o:0.35;animation-duration:8s;animation-delay:-12s"/><circle class="p" cx="756" cy="259" r="3" fill="#c4b5fd" style="--o:0.7;animation-duration:14s;animation-delay:-1s"/><circle class="p" cx="612" cy="322" r="1.5" fill="#ffffff" style="--o:0.35;animation-duration:11s;animation-delay:-10s"/><circle class="p" cx="642" cy="277" r="2.5" fill="#93c5fd" style="--o:0.35;animation-duration:14s;animation-delay:-5s"/><circle class="p" cx="299" cy="332" r="1.5" fill="#93c5fd" style="--o:0.35;animation-duration:11s;animation-delay:-2s"/>
+  <text class="name" x="100" y="176" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="80" font-weight="800" letter-spacing="-1.5" fill="url(#nameGrad)"><tspan style="animation-delay:0.52s">B</tspan><tspan style="animation-delay:0.59s">h</tspan><tspan style="animation-delay:0.66s">a</tspan><tspan style="animation-delay:0.73s">g</tspan><tspan style="animation-delay:0.80s">a</tspan><tspan style="animation-delay:0.87s">b</tspan><tspan style="animation-delay:0.94s">a</tspan><tspan style="animation-delay:1.01s">n</tspan> <tspan style="animation-delay:1.08s">P</tspan><tspan style="animation-delay:1.15s">a</tspan><tspan style="animation-delay:1.22s">u</tspan><tspan style="animation-delay:1.29s">l</tspan></text>
+  <path class="rule" d="M100 198 H440" stroke="url(#ruleGrad)" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <text class="prompt" x="100" y="252" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="26" font-weight="700" fill="#a78bfa">❯</text>
+  <clipPath id="clip0"><rect class="clip0" x="132" y="222" width="0" height="42"/></clipPath>
+<text x="132" y="252" clip-path="url(#clip0)" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="26" fill="#9fe8ff" textLength="561.6" lengthAdjust="spacing" xml:space="preserve">Forward Deployed Engineer @ Vyohm AI</text>
+<clipPath id="clip1"><rect class="clip1" x="132" y="222" width="0" height="42"/></clipPath>
+<text x="132" y="252" clip-path="url(#clip1)" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="26" fill="#9fe8ff" textLength="608.4" lengthAdjust="spacing" xml:space="preserve">Founder @ Triakshi AI, a product studio</text>
+<clipPath id="clip2"><rect class="clip2" x="132" y="222" width="0" height="42"/></clipPath>
+<text x="132" y="252" clip-path="url(#clip2)" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="26" fill="#9fe8ff" textLength="655.2" lengthAdjust="spacing" xml:space="preserve">AI agents for real businesses, on WhatsApp</text>
+<clipPath id="clip3"><rect class="clip3" x="132" y="222" width="0" height="42"/></clipPath>
+<text x="132" y="252" clip-path="url(#clip3)" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="26" fill="#9fe8ff" textLength="624.0" lengthAdjust="spacing" xml:space="preserve">Full-stack + ML, from idea to production</text>
+  <rect class="caret" x="132" y="228" width="3" height="30" rx="1" fill="#9fe8ff"/>
+  <g class="chip" style="animation-delay:3.10s"><rect x="100" y="312" width="76" height="36" rx="18" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.14)"/><text x="138.0" y="335" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e0e7ff" textLength="46" lengthAdjust="spacing">React</text></g><g class="chip" style="animation-delay:3.22s"><rect x="186" y="312" width="88" height="36" rx="18" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.14)"/><text x="230.0" y="335" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e0e7ff" textLength="58" lengthAdjust="spacing">Next.js</text></g><g class="chip" style="animation-delay:3.34s"><rect x="284" y="312" width="90" height="36" rx="18" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.14)"/><text x="329.0" y="335" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e0e7ff" textLength="60" lengthAdjust="spacing">Node.js</text></g><g class="chip" style="animation-delay:3.46s"><rect x="384" y="312" width="68" height="36" rx="18" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.14)"/><text x="418.0" y="335" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e0e7ff" textLength="38" lengthAdjust="spacing">AWS</text></g><g class="chip" style="animation-delay:3.58s"><rect x="462" y="312" width="86" height="36" rx="18" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.14)"/><text x="505.0" y="335" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e0e7ff" textLength="56" lengthAdjust="spacing">Python</text></g><g class="chip" style="animation-delay:3.70s"><rect x="558" y="312" width="118" height="36" rx="18" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.14)"/><text x="617.0" y="335" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e0e7ff" textLength="88" lengthAdjust="spacing">TensorFlow</text></g>
+  <rect x="0.5" y="0.5" width="1199" height="399" rx="23.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+</g>
+</svg>
